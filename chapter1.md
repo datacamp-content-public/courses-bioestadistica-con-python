@@ -54,3 +54,20 @@ xp: 50
 
 `@projector_key`
 44abc4f6df15242e9b2e2b6e8bbecb0f
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: 92f571673e
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{python}
+
+```
