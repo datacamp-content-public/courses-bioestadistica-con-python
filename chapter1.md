@@ -17,7 +17,7 @@ skills: 2
 explicación de la función print
 
 `@instructions`
-tienes que imprimir la palabra
+tienes que imprimir las palabras "Hola Mundo" utilizando la función print(), simplemente colocando dentro del parántesis las palabras "Hola Mundo"
 
 `@hint`
 
