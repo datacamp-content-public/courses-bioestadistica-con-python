@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Bases de Python'
 description: 'Chapter description goes here.'
 free_preview: true
 ---
@@ -14,17 +14,17 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+explicación de la función print
 
 `@instructions`
-
+tienes que imprimir la palabra
 
 `@hint`
 
 
 `@pre_exercise_code`
 ```{python}
-
+# vamos a comenzar con el primer programa 
 ```
 
 `@sample_code`
@@ -34,7 +34,7 @@ This is an example exercise.
 
 `@solution`
 ```{python}
-
+print("hola mundo")
 ```
 
 `@sct`
