@@ -4,7 +4,7 @@ description: 'Chapter description goes here.'
 free_preview: true
 ---
 
-## Example coding exercise
+## Hola mundo
 
 ```yaml
 type: NormalExercise
@@ -41,3 +41,16 @@ print("hola mundo")
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: dc95f3fd6e
+xp: 50
+```
+
+`@projector_key`
+44abc4f6df15242e9b2e2b6e8bbecb0f
